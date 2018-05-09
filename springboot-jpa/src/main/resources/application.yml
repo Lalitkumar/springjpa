@@ -10,4 +10,10 @@ spring:
       ddl-auto: update
     generate-ddl: true
     show-sql: true
+    
+
+    
+config: 
+  from: lalit
+  to: lalit
       
